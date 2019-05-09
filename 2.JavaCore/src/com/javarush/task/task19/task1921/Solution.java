@@ -38,7 +38,6 @@ public class Solution {
                 } else {
                     name += ss[i];
                 }
-
             }
 
             Calendar dob = Calendar.getInstance();
